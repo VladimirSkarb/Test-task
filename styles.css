@@ -1,0 +1,29 @@
+.form {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.input {
+    width: 200px;
+    height: 25px;
+}
+
+.btn {
+    width: 85px;
+    height: 32px;
+    border: none;
+    background-color: dodgerblue;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+
+.btn:hover {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.text {
+    font-size: 25px;
+}
